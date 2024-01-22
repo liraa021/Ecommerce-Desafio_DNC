@@ -30,8 +30,5 @@
 ## Link do site 
 - 
 
-  
-## Melhorias
 
-Acredito que seria legal a interação com um back end que possa gravar permanentemente essas tarefas.
 
