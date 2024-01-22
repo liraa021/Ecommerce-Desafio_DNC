@@ -1,0 +1,18 @@
+@use '../sass/variables.scss' as *;
+
+.content {
+    padding-top: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+    h1 {
+        color: white;
+        font-size: 40px;
+        font-family: Poppins;
+        font-weight: 600;
+        text-align: center;
+        margin-bottom: 8.5%;
+    }
+}

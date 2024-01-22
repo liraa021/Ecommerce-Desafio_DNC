@@ -1,0 +1,36 @@
+@use "../../sass/variables.scss" as *;
+
+header {
+    background-color: $sec-color;
+    font-size: 25px;
+    font-family: Poppins;
+    font-weight: 600;
+    display: flex;
+    padding: 20px 0 0 61px;
+}
+
+header div p {
+    color: $white;
+
+    margin: 0;
+}
+
+header div {
+    padding: 9px 40px;
+
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    align-items: flex-end;
+}
+
+.tarefas {
+    background-color: $white;
+
+    p {
+        color: $sec-color;
+    }
+}
+
+.tarefas:hover {
+    cursor: pointer;
+}
