@@ -28,7 +28,7 @@
 - Remoção de tarefas (Versão 1.0)
   
 ## Link do site 
-- 
+- https://vercel.com/rodrigo-liras-projects/ecommerce-dnc
 
 
 
